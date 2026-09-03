@@ -1,23 +1,3 @@
-## USER 🧑‍💻
-
-<session_context>
-This is the Gemini CLI. We are setting up the context for our chat.
-Today's date is Thursday, September 3, 2026 (formatted according to the user's locale).
-My operating system is: linux
-The project's temporary directory is: /home/johannes/.gemini/tmp/report-signals
-- **Workspace Directories:**
-  - /home/johannes/gemini-cli/report_signals
-- **Directory Structure:**
-
-Showing up to 200 items (files + folders).
-
-/home/johannes/gemini-cli/report_signals/
-
-
-
-</session_context>
-
----
 
 ## USER 🧑‍💻
 
